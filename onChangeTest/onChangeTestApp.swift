@@ -11,7 +11,7 @@ import SwiftUI
 struct onChangeTestApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ReservationFrom()
         }
     }
 }
